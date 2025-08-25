@@ -24,3 +24,17 @@
 - Mobile-first, responsive UI with Bootstrap 5. Light/Dark toggle included.
 - CSRF protection, prepared statements, password hashing out of the box.
 - Starter content: 1 course, 1 module, 1 lesson, and a published quiz.
+
+## Setup
+- PHP: 8.x, extensions: mysqli, intl, mbstring
+- Create DB: softskills (utf8mb4)
+- Import: db/schema.sql
+- Copy includes/config.sample.php -> includes/config.php and fill env vars
+
+## Structure
+- /db
+- /includes
+- /public (index.php, assets)
+- /admin
+- /api
+
