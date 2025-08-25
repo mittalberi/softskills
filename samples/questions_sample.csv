@@ -1,0 +1,4 @@
+company_tag,topic,question_type,question_text,option_a,option_b,option_c,option_d,correct_answer,explanation,difficulty
+tcs,Time & Work,mcq_single,"A and B can finish a work in 12 and 15 days respectively...",10,12,15,20,B,"Compute combined work, remaining by B",medium
+infosys,Probability,true_false,"If P(A)=1, then A is a sure event",,,,,True,"Definition of sure event",easy
+wipro,Vocabulary,short,"Plural of 'criterion'?",,,,,criteria,"",easy
